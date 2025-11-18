@@ -1,0 +1,16 @@
+# Node modules folder
+node_modules/
+
+# Environment variables
+.env
+
+# Firebase service account key
+serviceAccountKey.json
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
